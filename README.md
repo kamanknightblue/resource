@@ -1,6 +1,6 @@
 # Ctrl+F 搜关键字找
 
-## <font color = 'red' face="STCAIYUN">访问密码都是：9576</font>
+## <font color=#ff0000>访问密码都是：9576</font>
 
 # 软件
 
