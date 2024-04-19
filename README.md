@@ -4,8 +4,8 @@
 
 # 软件
 
-- [《pycharm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/108795882?spm=1001.2014.3001.5501)    [Pycharm](https://590m.com/f/8240040-481834964-83323e)
-- [《IntelliJ IDEA免装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105060694?spm=1001.2014.3001.5501)   [Idea](https://590m.com/f/8240040-481834798-b4dfa1) 
+- [《pycharm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/108795882?spm=1001.2014.3001.5501)    [>>>Pycharm](https://url40.ctfile.com/f/8240040-1058414908-1ef9ac?p=9576)
+- [《IntelliJ IDEA免装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105060694?spm=1001.2014.3001.5501)   [>>>Idea](https://url40.ctfile.com/f/8240040-1058414467-6260a8?p=9576) 
 - [《令人截图上瘾的录屏神器FSCapture》](https://blog.csdn.net/weixin_43616178/article/details/123504991?spm=1001.2014.3001.5501)    [FsCapture](https://url40.ctfile.com/f/8240040-555698252-e88acb) 
 - [《也许你在到处找PS，不妨来这里看看》](https://blog.csdn.net/weixin_43616178/article/details/123549443)    [Photoshop](https://url40.ctfile.com/f/8240040-556190421-e70770)
 - [《给pdf电子书添加书签》](https://blog.csdn.net/weixin_43616178/article/details/109264427?spm=1001.2014.3001.5501) [Acrobat Pro](https://url40.ctfile.com/f/8240040-556354901-9c0e69) 
