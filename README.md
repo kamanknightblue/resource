@@ -3,18 +3,18 @@
 
 # 软件
 
-| 文件                                                                                                           | 文章                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| [Pycharm](https://url40.ctfile.com/f/8240040-1058414908-1ef9ac?p=9576)                                       | [《pycharm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/108795882?spm=1001.2014.3001.5501)        |
-| [Idea](https://url40.ctfile.com/f/8240040-1058414467-6260a8?p=9576)                                          | [《IntelliJ IDEA免装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105060694?spm=1001.2014.3001.5501)   |
-| [FsCapture](https://url40.ctfile.com/f/8240040-1058416144-59bf02?p=9576)                                     | [《令人截图上瘾的录屏神器FSCapture》](https://blog.csdn.net/weixin_43616178/article/details/123504991?spm=1001.2014.3001.5501) |
-| [Photoshop](https://url40.ctfile.com/f/8240040-1058416810-200fbb?p=9576)                                     | [《也许你在到处找PS，不妨来这里看看》](https://blog.csdn.net/weixin_43616178/article/details/123549443)                            |
-| [Acrobat Pro](https://url40.ctfile.com/f/8240040-556354901-9c0e69)                                           | [《给pdf电子书添加书签》](https://blog.csdn.net/weixin_43616178/article/details/109264427?spm=1001.2014.3001.5501)          |
-| [Webstorm ](https://url40.ctfile.com/f/8240040-556356234-cfa1b8)                                             | [《webstorm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105906672?spm=1001.2014.3001.5501)       |
-| [Xftp6 免安装版](https://url40.ctfile.com/f/8240040-1225843636-3a0ec3?p=9576)                                    |                                                                                                                   |
-| [XShell6免安装版](https://url40.ctfile.com/f/8240040-563566842-f3555a)                                           |                                                                                                                   |
-| [PortableApps.com_Application_Template_3.7.zip](https://url40.ctfile.com/f/8240040-1063840739-ee4b89?p=9576) |                                                                                                                   |
-| [MindManager 2020](https://url40.ctfile.com/f/8240040-577260484-0fa894?p=9576)                               |                                                                                                                   |
+| 点击下载对应文件                                             | 简介文章                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Pycharm](https://url40.ctfile.com/f/8240040-1058414908-1ef9ac?p=9576) | [《pycharm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/108795882?spm=1001.2014.3001.5501) |
+| [Idea](https://url40.ctfile.com/f/8240040-1058414467-6260a8?p=9576) | [《IntelliJ IDEA免装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105060694?spm=1001.2014.3001.5501) |
+| [FsCapture](https://url40.ctfile.com/f/8240040-1058416144-59bf02?p=9576) | [《令人截图上瘾的录屏神器FSCapture》](https://blog.csdn.net/weixin_43616178/article/details/123504991?spm=1001.2014.3001.5501) |
+| [Photoshop](https://url40.ctfile.com/f/8240040-1058416810-200fbb?p=9576) | [《也许你在到处找PS，不妨来这里看看》](https://blog.csdn.net/weixin_43616178/article/details/123549443) |
+| [Acrobat Pro](https://url40.ctfile.com/f/8240040-556354901-9c0e69) | [《给pdf电子书添加书签》](https://blog.csdn.net/weixin_43616178/article/details/109264427?spm=1001.2014.3001.5501) |
+| [Webstorm ](https://url40.ctfile.com/f/8240040-556356234-cfa1b8) | [《webstorm免安装版推荐》](https://blog.csdn.net/weixin_43616178/article/details/105906672?spm=1001.2014.3001.5501) |
+| [Xftp6 免安装版](https://url40.ctfile.com/f/8240040-1225843636-3a0ec3?p=9576) |                                                              |
+| [XShell6免安装版](https://url40.ctfile.com/f/8240040-563566842-f3555a) |                                                              |
+| [PortableApps.com_Application_Template_3.7.zip](https://url40.ctfile.com/f/8240040-1063840739-ee4b89?p=9576) |                                                              |
+| [MindManager 2020](https://url40.ctfile.com/f/8240040-1363123984-ade0a1?p=9576) |                                                              |
 
 
 # 书
